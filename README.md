@@ -125,5 +125,41 @@ and now let get all that data that we need to variable so we can work with that
 <br>
 <img width="461" height="99" alt="image" src="https://github.com/user-attachments/assets/69965a83-c076-4839-82b9-f0ac676ea5c3" />
 <br>
-
-
+next let work on the const
+<br>
+<img width="493" height="213" alt="image" src="https://github.com/user-attachments/assets/6602bdff-012e-4243-bd65-350b42799845" />
+<br>
+i will make the all const that we add can create a "p" "h1" so we can add it to our card
+<br>
+and if u wonder what card.textContent=""; card.style.display="flex"; and cityDisplay.textContent = city; for
+<br>
+card.textContent = ""; is use for sets the textContent property of the card element to an empty string. This action removes all text and child elements inside the card
+<br>
+card.style.display = "flex"; is use for sets this sets the CSS display property of the card element to "flex"
+<br>
+cityDisplay.textContent = city; this a simple but essential line of JavaScript code that handles the display of information on a webpage.
+<br>
+Lest move on to the add class list
+<br>
+<img width="476" height="130" alt="image" src="https://github.com/user-attachments/assets/6bb3c6e4-7086-4cc5-83c7-1f7fb06f651e" />
+<br>
+it will ad a css setting to our Element
+<br>    
+and now text content
+<br>
+<img width="578" height="104" alt="image" src="https://github.com/user-attachments/assets/714908a7-6992-49ea-8b76-0fa00d16f986" />
+<br>
+The code snippet tempDisplay.textContent is not a complete command; it is a property access in JavaScript
+It refers to the text content (the actual numbers and characters) that is currently inside the HTML element referenced by the variable
+<br>
+appendChild it will make all the thing in variable show in card    
+<br>
+<img width="352" height="129" alt="image" src="https://github.com/user-attachments/assets/889fd205-6d6c-4f7e-9cb2-50aa0a0397e3" />
+<br>
+<h1>function getWeatherEmoji</h1>
+why we need this function cuz we need to if there weather is different will show different emoji
+<br>
+<img width="602" height="471" alt="image" src="https://github.com/user-attachments/assets/0c274121-263d-41ff-92a2-f81d2017b372" />
+<br>
+<h1>function displayError</h1>
+this function will dynamically generates a dedicated error message element, clears the main display area, and then shows the error message to the user.
