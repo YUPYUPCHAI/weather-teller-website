@@ -14,10 +14,13 @@ API Key is a code or string of text used to identify and authenticate an applica
 Let continue
 <br>
 so now am going to create a html,css,js.file for our website!
+<br>
 <img width="234" height="105" alt="image" src="https://github.com/user-attachments/assets/55839af8-28cd-4ee9-8be3-d85ed451389e" />
 <br>
 and now first we need to working on our html
+<br>
 <img width="860" height="469" alt="image" src="https://github.com/user-attachments/assets/5d61e4b6-7d8e-4ea5-8eb2-7d698d55a00f" />
+<br>
 first i make link so that we can get data from our css and js to make our html can work with both
 <br>
 <img width="393" height="37" alt="image" src="https://github.com/user-attachments/assets/000905e5-4a89-4612-8262-567aeec8095a" />
