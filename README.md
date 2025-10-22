@@ -1,4 +1,4 @@
-# weather-teller-website
+    # weather-teller-website
 it a website that can tell the weather of ur city!??
 <br>
 HOW I MAKE IT??!!?
@@ -65,6 +65,7 @@ and this is were we need a api we will get a api and make a const of it so we ca
 <br>
 <img width="738" height="94" alt="image" src="https://github.com/user-attachments/assets/d483d16c-9251-4781-abdb-49453d3886a4" />
 <br>
+<h1>function getWeatherData</h1>
 and now lest add some function
 <br>
 <img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/3ec59823-503d-4f82-b957-f0dded7068a0" />
@@ -77,6 +78,7 @@ what this function do?!?!??
 <br>
 in this function it will provided, getWeatherData(city), is an asynchronous (async) JavaScript function designed to fetch current weather data for a specified city from the OpenWeatherMap API
 <br>
+<h1>weatherForm</h1>
 now lest work on the form and button
 <br>
 <img width="532" height="20" alt="image" src="https://github.com/user-attachments/assets/2fee9f83-2762-4716-b39a-85eac6e7db7c" />
@@ -109,7 +111,7 @@ the catch will at console.error(error); will logs the technical error details to
 <br>
 and will displayError(error); calls an assumed function to show a user-friendly error message on the screen
 <br>
-and let go to the displayWeatherInfo
+<h1>function displayWeatherInfo</h1>
 <br>
 <img width="644" height="717" alt="image" src="https://github.com/user-attachments/assets/54c6ffcf-8e62-4bb8-b3ba-6ce974af8226" />
 <br>
