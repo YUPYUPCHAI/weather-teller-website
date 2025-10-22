@@ -87,9 +87,18 @@ first let see what is in the data that we got
 <br>
 <img width="893" height="305" alt="image" src="https://github.com/user-attachments/assets/bfb581ad-538f-49a8-a0d2-7a5109abf5c5" />
 <br>
-and now let get all that data to variable so we can work with that
+and now let get all that data that we need to variable so we can work with that
 <br>
 <img width="461" height="99" alt="image" src="https://github.com/user-attachments/assets/69965a83-c076-4839-82b9-f0ac676ea5c3" />
+<br>
+now lest work on the form and button
+<br>
+<img width="532" height="20" alt="image" src="https://github.com/user-attachments/assets/2fee9f83-2762-4716-b39a-85eac6e7db7c" />
+<br>
+first we will type event.preventDefault(); so our website dont reload the entire page when we click the button
+<br>
+next is const city = cityinput.value; this will get what user type and show it at form and it is stored in a constant variable named city
+<br>
 
 
 
