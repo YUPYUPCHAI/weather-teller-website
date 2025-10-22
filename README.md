@@ -59,9 +59,9 @@ and now our website will look like this
 AND NOW LEST MOVE ON TO MY FAV PART JS!
 <br>
 <h1>JS</h1>
-first we need to move a const that link to our html form button and card so it can work on our website!
+first we need a const that link to our html form button and card so it can work on our website!
 <br>
-and this is were we nee a api we will get a api and make a const of it so we can work on a data of weather
+and this is were we need a api we will get a api and make a const of it so we can work on a data of weather
 <br>
 <img width="738" height="94" alt="image" src="https://github.com/user-attachments/assets/d483d16c-9251-4781-abdb-49453d3886a4" />
 <br>
@@ -69,6 +69,11 @@ and now lest add some function
 <br>
 <img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/3ec59823-503d-4f82-b957-f0dded7068a0" />
 <br>
-
-
+first we going to work on a get weather data
+<br>
+<img width="988" height="166" alt="image" src="https://github.com/user-attachments/assets/3f9086be-84dd-43f1-b848-f7458e14131d" />
+<br>
+what this function do?!?!??
+<br>
+in this function it will provided, getWeatherData(city), is an asynchronous (async) JavaScript function designed to fetch current weather data for a specified city from the OpenWeatherMap API
 
