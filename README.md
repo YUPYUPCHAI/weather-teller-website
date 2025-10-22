@@ -99,6 +99,28 @@ first we will type event.preventDefault(); so our website dont reload the entire
 <br>
 next is const city = cityinput.value; this will get what user type and show it at form and it is stored in a constant variable named city
 <br>
-
+<img width="283" height="30" alt="image" src="https://github.com/user-attachments/assets/0be7cba7-7333-4934-87f7-3b3e9c817c4f" />
+<br>
+lest go to the next one is a if else event
+<br>
+<img width="591" height="316" alt="image" src="https://github.com/user-attachments/assets/0e6b41ec-3962-4838-861d-d793c645b881" />
+<br>
+in this event when we press a button it will look at the if is the city the user typed anything into the input field
+<br>
+if city is empty then it will run the else displayError("Please enter a city");
+<br>
+now let look at the try and catch in if
+<br>
+it will try const weatherData = await getWeatherData(city); it will calls the asynchronous function to fetch the weather data from the API and the await will pauses execution until the data is retrieved
+<br>
+next is displayWeatherInfo(weatherData); it will calls an assumed function to update the webpage with the successfully retrieved weather details
+<br>
+now let look at catch
+<br>
+if the try the getWeatherData(city) function fails or not found api
+<br>
+the catch will at console.error(error); will logs the technical error details to the browser's developer console for debugging
+<br>
+and will displayError(error); calls an assumed function to show a user-friendly error message on the screen
 
 
