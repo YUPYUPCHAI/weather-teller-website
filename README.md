@@ -55,5 +55,7 @@ and now our website will look like this
 <img width="1854" height="978" alt="image" src="https://github.com/user-attachments/assets/15d46985-6f4a-48c7-b567-16b2bbcd84e0" />
 <br>
 *****This after we add our js*****
+AND NOW LEST MOVE ON TO MY FAV PART JS!
+<h1>JS</h1>
 
 
