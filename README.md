@@ -55,7 +55,20 @@ and now our website will look like this
 <img width="1854" height="978" alt="image" src="https://github.com/user-attachments/assets/15d46985-6f4a-48c7-b567-16b2bbcd84e0" />
 <br>
 *****This after we add our js*****
+<br>
 AND NOW LEST MOVE ON TO MY FAV PART JS!
+<br>
 <h1>JS</h1>
+first we need to move a const that link to our html form button and card so it can work on our website!
+<br>
+and this is were we nee a api we will get a api and make a const of it so we can work on a data of weather
+<br>
+<img width="738" height="94" alt="image" src="https://github.com/user-attachments/assets/d483d16c-9251-4781-abdb-49453d3886a4" />
+<br>
+and now lest add some function
+<br>
+<img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/3ec59823-503d-4f82-b957-f0dded7068a0" />
+<br>
+
 
 
