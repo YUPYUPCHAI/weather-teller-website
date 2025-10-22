@@ -50,3 +50,10 @@ we going to stlye every thing button form a card and then thing in a card
 <br>
 <img width="545" height="510" alt="image" src="https://github.com/user-attachments/assets/21d24f59-ba63-4ce2-b901-53ffb63153a0" />
 <br>
+and now our website will look like this
+<br>
+<img width="1854" height="978" alt="image" src="https://github.com/user-attachments/assets/15d46985-6f4a-48c7-b567-16b2bbcd84e0" />
+<br>
+*****This after we add our js*****
+
+
