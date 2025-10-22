@@ -77,20 +77,6 @@ what this function do?!?!??
 <br>
 in this function it will provided, getWeatherData(city), is an asynchronous (async) JavaScript function designed to fetch current weather data for a specified city from the OpenWeatherMap API
 <br>
-and let go to the displayWeatherInfo
-<br>
-<img width="644" height="717" alt="image" src="https://github.com/user-attachments/assets/54c6ffcf-8e62-4bb8-b3ba-6ce974af8226" />
-<br>
-this function is going to get a data from the data and show all the data to the card that we make
-<br>
-first let see what is in the data that we got
-<br>
-<img width="893" height="305" alt="image" src="https://github.com/user-attachments/assets/bfb581ad-538f-49a8-a0d2-7a5109abf5c5" />
-<br>
-and now let get all that data that we need to variable so we can work with that
-<br>
-<img width="461" height="99" alt="image" src="https://github.com/user-attachments/assets/69965a83-c076-4839-82b9-f0ac676ea5c3" />
-<br>
 now lest work on the form and button
 <br>
 <img width="532" height="20" alt="image" src="https://github.com/user-attachments/assets/2fee9f83-2762-4716-b39a-85eac6e7db7c" />
@@ -122,5 +108,20 @@ if the try the getWeatherData(city) function fails or not found api
 the catch will at console.error(error); will logs the technical error details to the browser's developer console for debugging
 <br>
 and will displayError(error); calls an assumed function to show a user-friendly error message on the screen
+<br>
+and let go to the displayWeatherInfo
+<br>
+<img width="644" height="717" alt="image" src="https://github.com/user-attachments/assets/54c6ffcf-8e62-4bb8-b3ba-6ce974af8226" />
+<br>
+this function is going to get a data from the data and show all the data to the card that we make
+<br>
+first let see what is in the data that we got
+<br>
+<img width="893" height="305" alt="image" src="https://github.com/user-attachments/assets/bfb581ad-538f-49a8-a0d2-7a5109abf5c5" />
+<br>
+and now let get all that data that we need to variable so we can work with that
+<br>
+<img width="461" height="99" alt="image" src="https://github.com/user-attachments/assets/69965a83-c076-4839-82b9-f0ac676ea5c3" />
+<br>
 
 
