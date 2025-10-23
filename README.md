@@ -163,3 +163,4 @@ why we need this function cuz we need to if there weather is different will show
 <br>
 <h1>function displayError</h1>
 this function will dynamically generates a dedicated error message element, clears the main display area, and then shows the error message to the user.
+<h1>THANK FOR READING!</h1>
